@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+
 public class GeoFactory {
     public static final String WELCOME = "Hello! Welcome to the Geo Factory!";
     public static final String MAIN_MENU = "What type of geometry would you like to build?\n" +
